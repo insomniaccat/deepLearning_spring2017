@@ -1,6 +1,6 @@
 # Intro to Deep Learning at Rensselaer Poltechnic Institute
 
-This repository contains my code for the programming projects I've completed for the Introduction to Deep Learning class taught by Dr. Qiang Ji at Rensselaer Polytechnic Institute in Spring 2018. There is code for five projects here: 
+This repository contains my code for the programming projects I've completed for the Introduction to Deep Learning class taught by Dr. Qiang Ji at Rensselaer Polytechnic Institute in Spring 2017. There is code for five projects here: 
 
 1) Implementation of gradient descent and stochastic gradient descent for linear regression. 
 2) Implementation of a multi-class logistic regressor for classifying digits 1 through 5 in the MNIST dataset. 
