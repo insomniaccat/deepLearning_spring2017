@@ -11,8 +11,6 @@ This repository contains my code for the programming projects I've completed for
 Data sets for the projects can be found here https://drive.google.com/drive/folders/1chS7llOaOvLD_k6mXlmlIehnT28Andhj?usp=sharing 
 Original links for the datasets are given in the code files. 
 
-The original dataset comes from the GazeCapture project: http://gazecapture.csail.mit.edu/
-
 Due to limitations in computing power, in an academic setting, our datasets were smaller in size and fewer in samples than their original sources.
 
 ## Getting Started
